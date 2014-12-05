@@ -21,6 +21,7 @@ public class Dero {
             lap.crier();
             i = i +1;
         }
+        System.out.println("Coucou");
     }
     
 }
